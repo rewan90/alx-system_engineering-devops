@@ -1,1 +1,2 @@
-pdw
+#!/bin/bash
+echo pwd
